@@ -55,11 +55,13 @@ y.insert(0,input("enter fourth value"))
 print(y)
 del y[0]
 print(y)
+print("\n")
 
 
-
-
-
-
-
+print("Question6")
+num = int(input("enter a number: "))
+if (num % 2) == 0:
+    print("number is even".format(num))
+else:
+   print("number is odd".format(num))
 
