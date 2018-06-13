@@ -58,10 +58,6 @@ print(y)
 
 
 
-print(x)
-
-
-
 
 
 
